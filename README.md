@@ -2,12 +2,16 @@
 
 **Junior Frontend Developer** 🚀
 
-- **Email (Preferred):** 📧 lavrinaitis.v@yandex.ru
-- **Email:** 📧 lavrinaytis.v@gmail.com
-- **Telegram (Preferred):** 💬 [t.me/L1mp0p0](https://t.me/L1mp0p0) 
-- **LinkedIn:** 🔗 [linkedin.com/in/n01imit](https://linkedin.com/in/n01imit) 
-- **GitHub:** 🐙 [github.com/N01im1T](https://github.com/N01im1T) 
-- **WeChat (Preferred):** 📲 n01im1t
+<div align="center">
+
+[![Email (Preferred)](https://img.shields.io/badge/Email-Preferred-blue?style=for-the-badge&logo=gmail)](mailto:lavrinaitis.v@yandex.ru)
+[![Email](https://img.shields.io/badge/Email-lavrinaytis.v%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:lavrinaytis.v@gmail.com)
+[![Telegram (Preferred)](https://img.shields.io/badge/Telegram-Preferred-blue?style=for-the-badge&logo=telegram)](https://t.me/L1mp0p0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/n01imit)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?style=for-the-badge&logo=github)](https://github.com/N01im1T)
+[![WeChat (Preferred)](https://img.shields.io/badge/WeChat-Contact%20Me-green?style=for-the-badge&logo=wechat)](weixin://dl/chat?n01im1t)
+
+</div>
 
 ---
 
