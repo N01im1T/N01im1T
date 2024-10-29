@@ -68,4 +68,4 @@ _September 2022 - August 2023_
 - REST API
 
 **Languages:**
-- English (B1-B2 level), Chinese (HSK1)
+- English (B1-B2 level), Chinese (HSK3)
